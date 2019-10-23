@@ -21,8 +21,8 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/any"
 	"github.com/google/uuid"
-	"github.com/opencord/voltha-lib-go/v2/pkg/kafka"
-	"github.com/opencord/voltha-lib-go/v2/pkg/log"
+	"github.com/sbconsulting/voltha-lib-go/v2/pkg/kafka"
+	"github.com/sbconsulting/voltha-lib-go/v2/pkg/log"
 	ic "github.com/opencord/voltha-protos/go/inter_container"
 	"time"
 )
